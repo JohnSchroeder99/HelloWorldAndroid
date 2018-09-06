@@ -1,2 +1,2 @@
 # HelloWorldAndroid
-First Mobile Application with Regis University 
+Good Template to get things up and running for development. 
